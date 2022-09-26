@@ -2,6 +2,7 @@ Rainbow and the unicorn
 The rainbow 
 VIBGYOR 
 UNICORN
+INDIGO
 these are the colors of the rainbow.
 now green color is added
 now yellow is added.
